@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "profiles_rajesh_fd_name": {
+            "value": null
+        },
+        "sites_rajesh_ghost_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rajeshnord_90bf_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_rajeshwaf_name": {
+            "value": null
+        }
+    }
+}
